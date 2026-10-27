@@ -1,0 +1,8 @@
+{
+  "name": "textile-sentiment-analysis",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node scripts/start.js"
+  }
+}
